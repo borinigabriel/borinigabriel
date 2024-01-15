@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV3ZXNlOWFyaTBnbXUxb3N5aTNrc3c4NjI5NTQzc3FnaXlyeDg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IDXiVfx9scI5YJuXca/source.gif" alt="Dancing GIF" style="max-width: 100%;" />
 </div>
 
+<br>
+
 <h1 align="center">I'm Gabriel!</h1>
 <h3 align="center">Awesome Python Student and Tech Enthusiast! 😎🐍🚀</h3>
 
