@@ -6,9 +6,9 @@
 <h1 align="center">I'm Gabriel!</h1>
 <h3 align="center">Awesome Python Student and Tech Enthusiast! 😎🐍🚀</h3>
 
-- 💻I'm a **Data Analyst**
+- 💻 I'm a **Data Analyst**
 
-- 💬 Me pergunte sobre **Python, Machine Learning, SQL, Power BI**
+- 💬 Ask me about **Python, Machine Learning, SQL, Power BI**
 
 - 🌱 Currently learning **Python and Machine Learning**
 
