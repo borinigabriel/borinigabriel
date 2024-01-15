@@ -1,3 +1,4 @@
+
 <!-- Adicione um botão de reprodução para o GIF acima do título -->
 <div align="center">
   <button onclick="document.getElementById('myGif').style.display='block'; this.style.display='none'">Play GIF</button>
