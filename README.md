@@ -1,6 +1,6 @@
-<!-- Adicione um GIF fixo no topo -->
-<div style="position: fixed; top: 0; left: 50%; transform: translateX(-50%); z-index: 1000;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV3ZXNlOWFyaTBnbXUxb3N5aTNrc3c4NjI5NTQzc3FnaXlyeDg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IDXiVfx9scI5YJuXca/source.gif" alt="Dancing GIF" style="object-fit: contain; width: 100%; max-height: 400px;"/>
+<!-- Adicione um GIF acima do título -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV3ZXNlOWFyaTBnbXUxb3N5aTNrc3c4NjI5NTQzc3FnaXlyeDg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IDXiVfx9scI5YJuXca/source.gif" alt="Dancing GIF" width="300"/>
 </div>
 
 <h1 align="center">I'm Gabriel!</h1>
