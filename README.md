@@ -1,7 +1,9 @@
-<!-- Adicione um GIF acima do título -->
+<!-- Adicione um botão de reprodução para o GIF acima do título -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV3ZXNlOWFyaTBnbXUxb3N5aTNrc3c4NjI5NTQzc3FnaXlyeDg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IDXiVfx9scI5YJuXca/source.gif" alt="Dancing GIF" style="object-fit: contain; margin-top: 20px;" width="100%" height="auto"/>
+  <button onclick="document.getElementById('myGif').style.display='block'; this.style.display='none'">Play GIF</button>
+  <img id="myGif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV3ZXNlOWFyaTBnbXUxb3N5aTNrc3c4NjI5NTQzc3FnaXlyeDg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IDXiVfx9scI5YJuXca/source.gif" alt="Dancing GIF" style="object-fit: contain; margin-top: 20px; display: none;" width="100%" height="auto"/>
 </div>
+
 
 
 <h1 align="center">I'm <font color="blue">Gabriel</font>!</h1>
