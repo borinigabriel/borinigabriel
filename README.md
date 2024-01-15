@@ -5,17 +5,20 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV3ZXNlOWFyaTBnbXUxb3N5aTNrc3c4NjI5NTQzc3FnaXlyeDg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IDXiVfx9scI5YJuXca/source.gif" alt="Dancing GIF" style="object-fit: contain; width: 100%; max-height: 400px;"/>
 </div>
 
-
-
-
-<h1 align="center">I'm <font color="blue">Gabriel</font>!</h1>
+<h1 align="center">I'm Gabriel!</h1>
 <h3 align="center">Awesome Python Student and Tech Enthusiast! 😎🐍🚀</h3>
 
-- 💻 I'm a **Data Analyst**
+- 💻I'm a **Data Analyst**
+
+- 💬 Me pergunte sobre **Python, Machine Learning, SQL, Power BI**
 
 - 🌱 Currently learning **Python and Machine Learning**
 
 - 🚀 Tech Enthusiast **with a passion for IA**
+
+- 📫 You can contact me through the email **borinigabriel@hotmail.com**
+
+- 📱Cellphone (Whatsapp) **+55 (43)99965 - 7927**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
