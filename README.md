@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">I'm Gabriel!</h1>
-<h3 align="center">Student and Tech Enthusiast! 😎🐍🚀</h3>
+<h3 align="center">Student and Tech Enthusiast! 😎🚀</h3>
 
 - 💻 I'm a **Full Stack Developer**
 
