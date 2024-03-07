@@ -6,11 +6,11 @@
 <h1 align="center">I'm Gabriel!</h1>
 <h3 align="center">Awesome Python Student and Tech Enthusiast! 😎🐍🚀</h3>
 
-- 💻 I'm a **Data Analyst**
+- 💻 I'm a **Full Stack Developer**
 
-- 💬 Ask me about **Python, Machine Learning, SQL, Power BI**
+- 💬 Ask me about **JavaScript, Python, Machine Learning, Design and Database**
 
-- 🌱 Currently learning **Python and Machine Learning**
+- 🌱 Currently learning **JavaScript, Python and ML**
 
 - 🚀 Tech Enthusiast **with a passion for IA**
 
