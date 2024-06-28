@@ -6,7 +6,7 @@
 <h1 align="center">I'm Gabriel!</h1>
 <h3 align="center">Student and Tech Enthusiast! 😎🚀</h3>
 
-- 💻 I'm a **Data Scientist/Machine Learning Engineer**
+- 💻 I'm a **Data Analyst**
 
 - 💬 Ask me about **Data, Python, Machine Learning, Design and Database**
 
